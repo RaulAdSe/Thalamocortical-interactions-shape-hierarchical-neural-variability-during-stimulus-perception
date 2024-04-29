@@ -6,7 +6,7 @@ This repository contains all the computational tools and scripts used in our rec
 In our research, we employed a range of computational neuroscience methods to quantify neural variability and connectivity. We analyzed intrinsic timescales, computed the Fano factor for assessing neuronal response variability, and applied directed connectivity measures to explore the information flow across the thalamocortical network.
 
 ## Project Characteristics
-- **Neural Data**: Analysis of spiking data from monkeys, focusing on neurons within the somatosensory thalamus (VPL) and cortical areas 3b and 1.
+- **Neural Data**: Analysis of spiking data from monkeys, focusing on neurons within the somatosensory thalamus (VPL) and cortical areas 3b and 1 in the primary Somatosensory cortex (S1). 
 - **Key Measures**: Intrinsic timescales, Fano factor, and directionality measures of connectivity.
 - **Findings**: The study reveals distinct patterns of neural dynamics and interactions, which contribute to the hierarchical processing within the network, particularly how sensory information is processed across different areas of the thalamocortical circuit.
 
