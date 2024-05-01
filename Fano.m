@@ -1,7 +1,5 @@
 %Author: Raul Adell
-%Description: Function to estimate Fano factor along the cognitive task 
-%for each neuron
-%separately
+%Description: Function to estimate Fano factor along the cognitive task for each neuron separately
 %Date: 9/9/2023
 
 
