@@ -25,7 +25,7 @@ This repository includes the following main computational tools, essential for a
    - Code to compute the Fano factor for neuronal spike counts, used to assess intrinsic variability in neural responses across trials.
 
 3. **Directed Information Inference**
-   - Tools to infer directional interactions between neurons using the Directional Information (DI) inference method. This method estimates single-trial directional interactions between discrete time series within sequential time windows.
+   - Tools to infer directional interactions between neurons using the Directional Information (DI) inference method based on the context tree weighting method (CTW) algorithm. This method estimates single-trial directional interactions between discrete time series within sequential time windows.
 
 ### External References
 
